@@ -13,7 +13,7 @@ global.ApiKey = 'coderevolution'
 
 NameOwner = 'KazeDevID'// Nama lu
 NameBot = 'Akaeru Md'// Nama bot lu
-NomorOwner = '6282217590187'// Nomor Owner
+NomorOwner = '6283181341902'// Nomor Owner
 Log = '\n『々Lord』KAZE☆☆☆'//console log gerak nya:v
 Titlenyo = 'SUBSRIBE CHANNEL KAZEDEVID'// Titlenya
 
@@ -24,8 +24,8 @@ Uig = 'https://instagram.com/lordagam23_'// link ig lu
 Ugc = 'https://chat.whatsapp.com/KX1gNmG96RHC2oUlNy3Wdz'// link gc lu
 
 // Other
-global.owner = ['6282217590187']// Nomor lu
-global.premium = ['6282217590187']// User Prem
+global.owner = ['6283181341902']// Nomor lu
+global.premium = ['6283181341902']// User Prem
 global.profilebio = ['6282217590187'] // ini ganti nomor lu ntar bisa nampilin pp lu
 global.packname = 'Akaeru Bot'// Packname
 global.sessionName = 'session'// session Bot
